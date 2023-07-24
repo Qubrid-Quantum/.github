@@ -2,14 +2,15 @@
 
 ## Qubrid LLC
 
-Hybrid Classical-Quantum Computing-Program Once and Deploy on Hybrid Compute Infrastucture
+Introducing Qubrid,  
 
-One Platform for Easy Quantum Programming – IBM Qiskit, NVIDIA Quantum CUDA and others
+A pioneering platform that integrates AI/ML deep learning with cloud infrastructure, GPU acceleration, and quantum computing.  
 
-    Write code in your favorite programming language or upload existing programs
-    IBM Qiskit, NVIDIA Quantum CUDA and other integrations
-    Visualize as you program with Jupyter integration
-    Designed for new developers in Quantum as well as existing AI/ML developers for advancement of scientific applications
+Our platform empowers users with unmatched scalability, flexibility, and reliability for their AI projects. With seamless multi cloud integration, lightning-fast GPU acceleration, and the power of quantum computing, we are revolutionising the AI landscape. 
+
+#Join us on this transformative journey as we shape the future of AI/ML deep learning. Qubrid by Dihuni: Where Innovation Meets Possibility. 
+
+ 
 
 ## Contributing
 
