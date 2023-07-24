@@ -1,6 +1,6 @@
 
 
-Qubrid LLC
+## Qubrid LLC
 
 Hybrid Classical-Quantum Computing-Program Once and Deploy on Hybrid Compute Infrastucture
 
