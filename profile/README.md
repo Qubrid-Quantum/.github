@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
+Qubrid LLC
 
 Hybrid Classical-Quantum Computing-Program Once and Deploy on Hybrid Compute Infrastucture
 
