@@ -1,6 +1,6 @@
 # .github
 
-https://www.qubrid.com/
+https://www.qubrid.com
 
 
 Hybrid Classical-Quantum Computing
